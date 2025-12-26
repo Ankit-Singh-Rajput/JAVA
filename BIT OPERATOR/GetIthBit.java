@@ -13,5 +13,5 @@ public static int getIthBit(int n, int i)
 
 public static void main(String args[])
 {
-    System.out.println(getIthBit ( 10, 2));
+    System.out.println(getIthBit(10, 2));
 }
